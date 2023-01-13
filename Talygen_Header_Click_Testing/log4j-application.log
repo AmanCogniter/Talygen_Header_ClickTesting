@@ -18485,3 +18485,415 @@ Driver info: driver.version: unknown
 2022-11-10 14:43:52,560  INFO [main] User Login Page:113 - My Profile Logo clicked 
 2022-11-10 14:43:55,784  INFO [main] User Login Page:113 - Help clicked 
 2022-11-10 14:43:55,860  INFO [main] User Login Page:358 - Help Page opened succesfully
+2022-11-17 12:13:39,572  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-17 12:13:40,069  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-17 12:13:40,448  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-17 12:13:41,213  INFO [main] User Login Page:113 - Login clicked 
+2022-11-17 12:13:54,905  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-17 12:13:54,968  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-17 12:13:57,468  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-17 12:13:59,095  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-17 12:14:02,730  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-17 12:14:02,799  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-11-17 12:14:04,222  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 12:14:07,757  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-17 12:14:07,816  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-17 12:14:09,353  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-17 12:14:13,557  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-17 12:14:13,648  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-17 12:14:15,208  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-17 12:14:17,861  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-17 12:14:19,488  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-17 12:14:23,436  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-17 12:14:33,465  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-17 12:14:39,064  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 12:14:39,179  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-17 12:14:39,647  INFO [main] User Login Page:113 - Notification Popup Closed clicked 
+2022-11-17 12:14:43,244  INFO [main] User Login Page:113 - Bookmark clicked 
+2022-11-17 12:14:43,331  INFO [main] User Login Page:182 - Bookmark PopUp opened succesfully
+2022-11-17 12:14:45,872  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 12:14:53,747  INFO [main] User Login Page:113 - DashBoard clicked 
+2022-11-17 12:14:53,802  INFO [main] User Login Page:204 - My Shortcuts Page opened succesfully
+2022-11-17 12:14:57,170  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-17 12:14:57,237  INFO [main] User Login Page:221 - Full Menu Page opened succesfully
+2022-11-17 12:14:57,541  INFO [main] User Login Page:113 -  Close Full Menu clicked 
+2022-11-17 12:15:00,965  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:04,492  INFO [main] User Login Page:113 - My Profile clicked 
+2022-11-17 12:15:04,535  INFO [main] User Login Page:236 - User Profile Page opened succesfully
+2022-11-17 12:15:07,996  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:08,356  INFO [main] User Login Page:113 - Language clicked 
+2022-11-17 12:15:08,409  INFO [main] User Login Page:250 - Language Dropdown Popup opened succesfully
+2022-11-17 12:15:13,147  INFO [main] User Login Page:113 - English clicked 
+2022-11-17 12:15:16,518  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:16,861  INFO [main] User Login Page:113 - Menu clicked 
+2022-11-17 12:15:16,907  INFO [main] User Login Page:266 - Menu Dropdown Popup opened succesfully
+2022-11-17 12:15:18,380  INFO [main] User Login Page:271 - Left Clicked successfully
+2022-11-17 12:15:21,768  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:22,051  INFO [main] User Login Page:113 - Menu clicked 
+2022-11-17 12:15:22,128  INFO [main] User Login Page:285 - Menu Dropdown Popup opened succesfully
+2022-11-17 12:15:23,501  INFO [main] User Login Page:290 - Top Clicked successfully
+2022-11-17 12:15:26,903  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:27,250  INFO [main] User Login Page:113 - Theme clicked 
+2022-11-17 12:15:27,290  INFO [main] User Login Page:304 - Theme Dropdown Popup opened succesfully
+2022-11-17 12:15:27,777  INFO [main] User Login Page:113 - Dark Theme clicked 
+2022-11-17 12:15:31,989  INFO [main] User Login Page:315 - Theme Dropdown Popup not opened succesfully
+2022-11-17 12:15:35,423  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:35,776  INFO [main] User Login Page:113 - Theme clicked 
+2022-11-17 12:15:35,820  INFO [main] User Login Page:327 - Theme Dropdown Popup opened succesfully
+2022-11-17 12:15:37,501  INFO [main] User Login Page:113 - Light Theme clicked 
+2022-11-17 12:15:40,934  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:45,426  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 12:15:45,549  INFO [main] User Login Page:343 - Manage Notifications Page opened succesfully
+2022-11-17 12:15:48,942  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 12:15:52,233  INFO [main] User Login Page:113 - Help clicked 
+2022-11-17 12:15:52,308  INFO [main] User Login Page:358 - Help Page opened succesfully
+2022-11-17 15:10:26,262  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-17 15:10:26,712  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-17 15:10:27,050  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-17 15:10:27,785  INFO [main] User Login Page:113 - Login clicked 
+2022-11-17 15:10:37,896  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-17 15:10:37,974  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-17 15:10:40,609  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-17 15:10:42,106  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-17 15:10:45,688  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-17 15:10:45,796  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-11-17 15:10:47,200  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 15:10:50,741  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-17 15:10:50,810  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-17 15:10:52,351  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-17 15:10:56,522  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-17 15:10:56,605  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-17 15:10:58,166  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-17 15:11:00,778  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-17 15:11:02,457  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-17 15:11:06,416  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-17 15:11:15,394  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-17 15:11:21,078  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 15:11:21,143  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-17 15:11:52,228  INFO [main] User Login Page:123 - Notification Popup Closed not clicked
+2022-11-17 15:11:52,879  INFO [main] HeaderTest-ValidateClickTestingOfHeaderPage:75 - Method - ValidateClickTestingOfHeaderPage failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Talygen_HeaderClickTesting\Talygen_Header_Click_Testing\reports\ValidateClickTestingOfHeaderPage_20221117151152.png
+2022-11-17 15:12:13,180  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-17 15:12:13,561  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-17 15:12:13,922  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-17 15:12:14,611  INFO [main] User Login Page:113 - Login clicked 
+2022-11-17 15:12:25,383  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-17 15:12:25,434  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-17 15:12:27,962  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-17 15:12:29,531  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-17 15:12:33,033  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-17 15:12:33,097  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-11-17 15:12:34,407  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 15:12:38,025  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-17 15:12:38,079  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-17 15:12:39,587  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-17 15:12:43,772  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-17 15:12:43,849  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-17 15:12:45,369  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-17 15:12:48,007  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-17 15:12:49,640  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-17 15:12:53,545  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-17 15:13:02,161  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-17 15:13:07,856  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 15:13:07,985  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-17 15:13:38,997  INFO [main] User Login Page:123 - Notification Popup Closed not clicked
+2022-11-17 15:13:39,635  INFO [main] HeaderTest-ValidateClickTestingOfHeaderPage:75 - Method - ValidateClickTestingOfHeaderPage failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Talygen_HeaderClickTesting\Talygen_Header_Click_Testing\reports\ValidateClickTestingOfHeaderPage_20221117151339.png
+2022-11-17 15:15:00,965  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-17 15:15:01,413  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-17 15:15:01,774  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-17 15:15:02,440  INFO [main] User Login Page:113 - Login clicked 
+2022-11-17 15:15:12,967  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-17 15:15:13,037  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-17 15:15:15,542  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-17 15:15:17,043  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-17 15:15:20,574  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-17 15:15:20,633  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-11-17 15:15:22,004  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 15:15:25,597  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-17 15:15:25,656  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-17 15:15:27,212  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-17 15:15:31,394  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-17 15:15:31,479  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-17 15:15:33,053  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-17 15:15:35,679  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-17 15:15:37,309  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-17 15:15:41,226  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-17 15:15:48,273  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-17 15:15:53,940  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 15:15:54,001  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-17 15:16:26,948  INFO [main] User Login Page:123 - Notification Popup Closed not clicked
+2022-11-17 15:16:27,571  INFO [main] HeaderTest-ValidateClickTestingOfHeaderPage:75 - Method - ValidateClickTestingOfHeaderPage failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Talygen_HeaderClickTesting\Talygen_Header_Click_Testing\reports\ValidateClickTestingOfHeaderPage_20221117151627.png
+2022-11-17 15:18:44,292  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-17 15:18:44,773  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-17 15:18:45,145  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-17 15:18:45,810  INFO [main] User Login Page:113 - Login clicked 
+2022-11-17 15:18:55,458  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-17 15:18:55,530  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-17 15:18:58,168  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-17 15:18:59,749  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-17 15:19:03,247  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-17 15:19:04,670  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 15:19:08,229  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-17 15:19:08,283  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-17 15:19:09,852  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-17 15:19:14,090  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-17 15:19:14,199  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-17 15:19:15,697  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-17 15:19:18,311  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-17 15:19:19,992  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-17 15:19:23,843  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-17 15:19:35,549  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-17 15:19:41,292  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 15:19:41,342  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-17 15:19:43,870  INFO [main] User Login Page:113 - Notification Popup Closed clicked 
+2022-11-17 15:19:47,451  INFO [main] User Login Page:113 - Bookmark clicked 
+2022-11-17 15:19:47,498  INFO [main] User Login Page:183 - Bookmark PopUp opened succesfully
+2022-11-17 15:20:20,435  INFO [main] User Login Page:123 -  Cancel Button not clicked
+2022-11-17 15:20:21,027  INFO [main] HeaderTest-ValidateClickTestingOfHeaderPage:75 - Method - ValidateClickTestingOfHeaderPage failed , see the screenshot - C:\Users\aanand\eclipse-workspace\Talygen_HeaderClickTesting\Talygen_Header_Click_Testing\reports\ValidateClickTestingOfHeaderPage_20221117152020.png
+2022-11-17 15:24:17,397  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-17 15:24:17,858  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-17 15:24:18,214  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-17 15:24:18,890  INFO [main] User Login Page:113 - Login clicked 
+2022-11-17 15:24:27,800  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-17 15:24:27,854  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-17 15:24:30,509  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-17 15:24:32,042  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-17 15:24:35,694  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-17 15:24:35,764  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-11-17 15:24:37,107  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 15:24:40,686  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-17 15:24:40,748  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-17 15:24:42,287  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-17 15:24:46,420  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-17 15:24:46,501  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-17 15:24:48,074  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-17 15:24:50,702  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-17 15:24:52,378  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-17 15:24:56,268  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-17 15:25:04,450  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-17 15:25:10,196  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 15:25:10,256  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-17 15:25:12,783  INFO [main] User Login Page:113 - Notification Popup Closed clicked 
+2022-11-17 15:25:16,363  INFO [main] User Login Page:113 - Bookmark clicked 
+2022-11-17 15:25:16,441  INFO [main] User Login Page:183 - Bookmark PopUp opened succesfully
+2022-11-17 15:25:18,991  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-17 15:25:26,223  INFO [main] User Login Page:113 - DashBoard clicked 
+2022-11-17 15:25:26,294  INFO [main] User Login Page:205 - My Shortcuts Page opened succesfully
+2022-11-17 15:25:29,771  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-17 15:25:29,837  INFO [main] User Login Page:222 - Full Menu Page opened succesfully
+2022-11-17 15:25:30,109  INFO [main] User Login Page:113 -  Close Full Menu clicked 
+2022-11-17 15:25:33,528  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:25:38,880  INFO [main] User Login Page:113 - My Profile clicked 
+2022-11-17 15:25:38,927  INFO [main] User Login Page:237 - User Profile Page opened succesfully
+2022-11-17 15:25:42,344  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:25:42,709  INFO [main] User Login Page:113 - Language clicked 
+2022-11-17 15:25:42,758  INFO [main] User Login Page:251 - Language Dropdown Popup opened succesfully
+2022-11-17 15:25:47,303  INFO [main] User Login Page:113 - English clicked 
+2022-11-17 15:25:50,732  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:25:51,101  INFO [main] User Login Page:113 - Menu clicked 
+2022-11-17 15:25:51,143  INFO [main] User Login Page:267 - Menu Dropdown Popup opened succesfully
+2022-11-17 15:25:52,612  INFO [main] User Login Page:272 - Left Clicked successfully
+2022-11-17 15:25:56,013  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:25:56,322  INFO [main] User Login Page:113 - Menu clicked 
+2022-11-17 15:25:56,371  INFO [main] User Login Page:286 - Menu Dropdown Popup opened succesfully
+2022-11-17 15:25:57,780  INFO [main] User Login Page:291 - Top Clicked successfully
+2022-11-17 15:26:01,138  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:26:01,493  INFO [main] User Login Page:113 - Theme clicked 
+2022-11-17 15:26:01,537  INFO [main] User Login Page:305 - Theme Dropdown Popup opened succesfully
+2022-11-17 15:26:02,028  INFO [main] User Login Page:113 - Dark Theme clicked 
+2022-11-17 15:26:06,179  INFO [main] User Login Page:316 - Theme Dropdown Popup not opened succesfully
+2022-11-17 15:26:09,600  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:26:09,939  INFO [main] User Login Page:113 - Theme clicked 
+2022-11-17 15:26:09,978  INFO [main] User Login Page:328 - Theme Dropdown Popup opened succesfully
+2022-11-17 15:26:11,664  INFO [main] User Login Page:113 - Light Theme clicked 
+2022-11-17 15:26:15,057  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:26:20,120  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-17 15:26:20,329  INFO [main] User Login Page:344 - Manage Notifications Page opened succesfully
+2022-11-17 15:26:23,748  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-17 15:26:27,434  INFO [main] User Login Page:113 - Help clicked 
+2022-11-17 15:26:27,547  INFO [main] User Login Page:359 - Help Page opened succesfully
+2022-11-28 14:11:45,639  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-11-28 14:11:46,101  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-11-28 14:11:46,479  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-11-28 14:11:47,205  INFO [main] User Login Page:113 - Login clicked 
+2022-11-28 14:11:57,962  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-11-28 14:11:58,033  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-11-28 14:12:00,572  INFO [main] User Login Page:113 - More Button clicked 
+2022-11-28 14:12:02,087  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-11-28 14:12:05,626  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-11-28 14:12:05,691  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-11-28 14:12:07,070  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-28 14:12:10,623  INFO [main] User Login Page:113 - Wizard clicked 
+2022-11-28 14:12:10,685  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-11-28 14:12:12,189  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-11-28 14:12:16,427  INFO [main] User Login Page:113 - Timer clicked 
+2022-11-28 14:12:16,521  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-11-28 14:12:18,097  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-11-28 14:12:20,726  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-11-28 14:12:22,374  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-11-28 14:12:26,306  INFO [main] User Login Page:113 - Communication clicked 
+2022-11-28 14:12:33,941  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-11-28 14:12:39,759  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-28 14:12:39,862  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-11-28 14:12:42,338  INFO [main] User Login Page:113 - Notification Popup Closed clicked 
+2022-11-28 14:12:46,001  INFO [main] User Login Page:113 - Bookmark clicked 
+2022-11-28 14:12:46,043  INFO [main] User Login Page:183 - Bookmark PopUp opened succesfully
+2022-11-28 14:12:48,606  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-11-28 14:12:55,965  INFO [main] User Login Page:113 - DashBoard clicked 
+2022-11-28 14:12:56,046  INFO [main] User Login Page:205 - My Shortcuts Page opened succesfully
+2022-11-28 14:12:59,493  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-11-28 14:12:59,579  INFO [main] User Login Page:222 - Full Menu Page opened succesfully
+2022-11-28 14:12:59,858  INFO [main] User Login Page:113 -  Close Full Menu clicked 
+2022-11-28 14:13:03,250  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:06,807  INFO [main] User Login Page:113 - My Profile clicked 
+2022-11-28 14:13:06,882  INFO [main] User Login Page:237 - User Profile Page opened succesfully
+2022-11-28 14:13:10,286  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:10,632  INFO [main] User Login Page:113 - Language clicked 
+2022-11-28 14:13:10,683  INFO [main] User Login Page:251 - Language Dropdown Popup opened succesfully
+2022-11-28 14:13:15,307  INFO [main] User Login Page:113 - English clicked 
+2022-11-28 14:13:18,708  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:19,036  INFO [main] User Login Page:113 - Menu clicked 
+2022-11-28 14:13:19,078  INFO [main] User Login Page:267 - Menu Dropdown Popup opened succesfully
+2022-11-28 14:13:20,660  INFO [main] User Login Page:272 - Left Clicked successfully
+2022-11-28 14:13:24,020  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:24,312  INFO [main] User Login Page:113 - Menu clicked 
+2022-11-28 14:13:24,356  INFO [main] User Login Page:286 - Menu Dropdown Popup opened succesfully
+2022-11-28 14:13:25,800  INFO [main] User Login Page:291 - Top Clicked successfully
+2022-11-28 14:13:29,137  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:29,498  INFO [main] User Login Page:113 - Theme clicked 
+2022-11-28 14:13:29,544  INFO [main] User Login Page:305 - Theme Dropdown Popup opened succesfully
+2022-11-28 14:13:30,054  INFO [main] User Login Page:113 - Dark Theme clicked 
+2022-11-28 14:13:34,217  INFO [main] User Login Page:316 - Theme Dropdown Popup not opened succesfully
+2022-11-28 14:13:37,613  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:37,960  INFO [main] User Login Page:113 - Theme clicked 
+2022-11-28 14:13:38,000  INFO [main] User Login Page:328 - Theme Dropdown Popup opened succesfully
+2022-11-28 14:13:39,643  INFO [main] User Login Page:113 - Light Theme clicked 
+2022-11-28 14:13:45,103  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:50,191  INFO [main] User Login Page:113 - Notification clicked 
+2022-11-28 14:13:50,323  INFO [main] User Login Page:344 - Manage Notifications Page opened succesfully
+2022-11-28 14:13:53,746  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-11-28 14:13:57,972  INFO [main] User Login Page:113 - Help clicked 
+2022-11-28 14:13:58,048  INFO [main] User Login Page:359 - Help Page opened succesfully
+2022-12-07 17:59:59,894  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-12-07 18:00:00,339  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-12-07 18:00:00,688  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-07 18:00:01,377  INFO [main] User Login Page:113 - Login clicked 
+2022-12-07 18:00:15,068  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-12-07 18:00:15,141  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-12-07 18:00:17,630  INFO [main] User Login Page:113 - More Button clicked 
+2022-12-07 18:00:19,170  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-12-07 18:00:22,726  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-12-07 18:00:22,785  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-12-07 18:00:24,171  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-12-07 18:00:27,771  INFO [main] User Login Page:113 - Wizard clicked 
+2022-12-07 18:00:27,830  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-12-07 18:00:29,409  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-12-07 18:00:33,704  INFO [main] User Login Page:113 - Timer clicked 
+2022-12-07 18:00:33,798  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-12-07 18:00:35,368  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-12-07 18:00:37,984  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-12-07 18:00:39,659  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-12-07 18:00:43,612  INFO [main] User Login Page:113 - Communication clicked 
+2022-12-07 18:00:56,187  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-12-07 18:01:01,915  INFO [main] User Login Page:113 - Notification clicked 
+2022-12-07 18:01:01,966  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-12-07 18:01:04,569  INFO [main] User Login Page:113 - Notification Popup Closed clicked 
+2022-12-07 18:01:08,196  INFO [main] User Login Page:113 - Bookmark clicked 
+2022-12-07 18:01:08,236  INFO [main] User Login Page:183 - Bookmark PopUp opened succesfully
+2022-12-07 18:01:10,804  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-12-07 18:01:19,785  INFO [main] User Login Page:113 - DashBoard clicked 
+2022-12-07 18:01:19,859  INFO [main] User Login Page:205 - My Shortcuts Page opened succesfully
+2022-12-07 18:01:23,373  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-07 18:01:23,447  INFO [main] User Login Page:222 - Full Menu Page opened succesfully
+2022-12-07 18:01:23,738  INFO [main] User Login Page:113 -  Close Full Menu clicked 
+2022-12-07 18:01:27,117  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:01:31,253  INFO [main] User Login Page:113 - My Profile clicked 
+2022-12-07 18:01:31,330  INFO [main] User Login Page:237 - User Profile Page opened succesfully
+2022-12-07 18:01:34,766  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:01:35,129  INFO [main] User Login Page:113 - Language clicked 
+2022-12-07 18:01:35,181  INFO [main] User Login Page:251 - Language Dropdown Popup opened succesfully
+2022-12-07 18:01:40,895  INFO [main] User Login Page:113 - English clicked 
+2022-12-07 18:01:44,266  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:01:44,610  INFO [main] User Login Page:113 - Menu clicked 
+2022-12-07 18:01:44,696  INFO [main] User Login Page:267 - Menu Dropdown Popup opened succesfully
+2022-12-07 18:01:46,188  INFO [main] User Login Page:272 - Left Clicked successfully
+2022-12-07 18:01:49,497  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:01:49,831  INFO [main] User Login Page:113 - Menu clicked 
+2022-12-07 18:01:49,927  INFO [main] User Login Page:286 - Menu Dropdown Popup opened succesfully
+2022-12-07 18:01:51,310  INFO [main] User Login Page:291 - Top Clicked successfully
+2022-12-07 18:01:54,687  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:01:55,012  INFO [main] User Login Page:113 - Theme clicked 
+2022-12-07 18:01:55,058  INFO [main] User Login Page:305 - Theme Dropdown Popup opened succesfully
+2022-12-07 18:01:55,546  INFO [main] User Login Page:113 - Dark Theme clicked 
+2022-12-07 18:02:00,575  INFO [main] User Login Page:316 - Theme Dropdown Popup not opened succesfully
+2022-12-07 18:02:03,935  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:02:04,250  INFO [main] User Login Page:113 - Theme clicked 
+2022-12-07 18:02:04,303  INFO [main] User Login Page:328 - Theme Dropdown Popup opened succesfully
+2022-12-07 18:02:05,973  INFO [main] User Login Page:113 - Light Theme clicked 
+2022-12-07 18:02:10,387  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:02:16,967  INFO [main] User Login Page:113 - Notification clicked 
+2022-12-07 18:02:17,122  INFO [main] User Login Page:344 - Manage Notifications Page opened succesfully
+2022-12-07 18:02:20,447  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-07 18:02:24,894  INFO [main] User Login Page:113 - Help clicked 
+2022-12-07 18:02:24,962  INFO [main] User Login Page:359 - Help Page opened succesfully
+2022-12-08 17:56:06,983  INFO [main] User Login Page:75 - User Name entered with value - gyal@mailinator.com
+2022-12-08 17:56:07,467  INFO [main] User Login Page:75 - Password entered with value - Royal@12
+2022-12-08 17:56:07,973  INFO [main] User Login Page:113 - Privacy Policy clicked 
+2022-12-08 17:56:08,667  INFO [main] User Login Page:113 - Login clicked 
+2022-12-08 17:56:20,825  INFO [main] User Login Page:113 - Tour Guide clicked 
+2022-12-08 17:56:20,893  INFO [main] User Login Page:35 - Tour Guide Page opened succesfully
+2022-12-08 17:56:23,608  INFO [main] User Login Page:113 - More Button clicked 
+2022-12-08 17:56:25,217  INFO [main] User Login Page:113 -  Close Tour Guide clicked 
+2022-12-08 17:56:28,787  INFO [main] User Login Page:113 - Delete Sample Data clicked 
+2022-12-08 17:56:28,851  INFO [main] User Login Page:62 - Delete Sample Data Page opened succesfully
+2022-12-08 17:56:30,169  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-12-08 17:56:33,726  INFO [main] User Login Page:113 - Wizard clicked 
+2022-12-08 17:56:33,829  INFO [main] User Login Page:84 - Wizard Page opened succesfully
+2022-12-08 17:56:35,308  INFO [main] User Login Page:113 -  Close Wizard clicked 
+2022-12-08 17:56:39,424  INFO [main] User Login Page:113 - Timer clicked 
+2022-12-08 17:56:39,541  INFO [main] User Login Page:106 - Time Track opened succesfully
+2022-12-08 17:56:41,076  INFO [main] User Login Page:113 - Close Time Track clicked 
+2022-12-08 17:56:43,703  INFO [main] User Login Page:113 - Full Screen clicked 
+2022-12-08 17:56:45,337  INFO [main] User Login Page:113 - Exit From Full Screen clicked 
+2022-12-08 17:56:49,271  INFO [main] User Login Page:113 - Communication clicked 
+2022-12-08 17:56:59,991  INFO [main] User Login Page:143 - Communication Page opened succesfully
+2022-12-08 17:57:05,839  INFO [main] User Login Page:113 - Notification clicked 
+2022-12-08 17:57:05,918  INFO [main] User Login Page:165 - Notification PopUp opened succesfully
+2022-12-08 17:57:08,403  INFO [main] User Login Page:113 - Notification Popup Closed clicked 
+2022-12-08 17:57:12,043  INFO [main] User Login Page:113 - Bookmark clicked 
+2022-12-08 17:57:12,096  INFO [main] User Login Page:183 - Bookmark PopUp opened succesfully
+2022-12-08 17:57:14,603  INFO [main] User Login Page:113 -  Cancel Button clicked 
+2022-12-08 17:57:22,289  INFO [main] User Login Page:113 - DashBoard clicked 
+2022-12-08 17:57:22,352  INFO [main] User Login Page:205 - My Shortcuts Page opened succesfully
+2022-12-08 17:57:25,827  INFO [main] User Login Page:113 - Full Menu clicked 
+2022-12-08 17:57:25,938  INFO [main] User Login Page:222 - Full Menu Page opened succesfully
+2022-12-08 17:57:26,234  INFO [main] User Login Page:113 -  Close Full Menu clicked 
+2022-12-08 17:57:29,599  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:57:33,264  INFO [main] User Login Page:113 - My Profile clicked 
+2022-12-08 17:57:33,324  INFO [main] User Login Page:237 - User Profile Page opened succesfully
+2022-12-08 17:57:36,692  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:57:37,030  INFO [main] User Login Page:113 - Language clicked 
+2022-12-08 17:57:37,086  INFO [main] User Login Page:251 - Language Dropdown Popup opened succesfully
+2022-12-08 17:57:42,443  INFO [main] User Login Page:113 - English clicked 
+2022-12-08 17:57:45,818  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:57:46,144  INFO [main] User Login Page:113 - Menu clicked 
+2022-12-08 17:57:46,196  INFO [main] User Login Page:267 - Menu Dropdown Popup opened succesfully
+2022-12-08 17:57:47,850  INFO [main] User Login Page:272 - Left Clicked successfully
+2022-12-08 17:57:51,161  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:57:51,477  INFO [main] User Login Page:113 - Menu clicked 
+2022-12-08 17:57:51,537  INFO [main] User Login Page:286 - Menu Dropdown Popup opened succesfully
+2022-12-08 17:57:52,976  INFO [main] User Login Page:291 - Top Clicked successfully
+2022-12-08 17:57:56,340  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:57:56,650  INFO [main] User Login Page:113 - Theme clicked 
+2022-12-08 17:57:56,692  INFO [main] User Login Page:305 - Theme Dropdown Popup opened succesfully
+2022-12-08 17:57:57,212  INFO [main] User Login Page:113 - Dark Theme clicked 
+2022-12-08 17:58:01,388  INFO [main] User Login Page:316 - Theme Dropdown Popup not opened succesfully
+2022-12-08 17:58:04,742  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:58:05,071  INFO [main] User Login Page:113 - Theme clicked 
+2022-12-08 17:58:05,111  INFO [main] User Login Page:328 - Theme Dropdown Popup opened succesfully
+2022-12-08 17:58:06,721  INFO [main] User Login Page:113 - Light Theme clicked 
+2022-12-08 17:58:10,126  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:58:15,811  INFO [main] User Login Page:113 - Notification clicked 
+2022-12-08 17:58:15,967  INFO [main] User Login Page:344 - Manage Notifications Page opened succesfully
+2022-12-08 17:58:19,314  INFO [main] User Login Page:113 - My Profile Logo clicked 
+2022-12-08 17:58:22,448  INFO [main] User Login Page:113 - Help clicked 
+2022-12-08 17:58:22,543  INFO [main] User Login Page:359 - Help Page opened succesfully

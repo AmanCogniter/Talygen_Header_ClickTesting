@@ -163,7 +163,8 @@ public class HeaderPage extends WebBasePage{
     		 WebElement notificationPopUp = driver.findElement(By.xpath("//div[@id='divinbox_listdata']"));
     		 if (notificationPopUp.isDisplayed()) {
 				logger.info("Notification PopUp opened succesfully");
-				 click(By.xpath("//div/a[@id='anccrossicon']/i"),"Notification Popup Closed", 30);
+				staticWait(2000);
+				 click(By.xpath("//div/ul/li/a[@data-original-title='Notifications']"),"Notification Popup Closed", 30);
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
@@ -189,7 +190,7 @@ public class HeaderPage extends WebBasePage{
      }
      public void clickOnCancelBookmark() {
     		staticWait(2000);
-    		click(By.xpath("//div/a[@data-original-title='Cancel']")," Cancel Button", 30); 
+    		click(By.xpath("//div/h5[text()='Bookmark']/ancestor::div[@class='modal-content']/descendant::button[@data-original-title='Close']")," Cancel Button", 30); 
             
         }
      public void clickOnDashBoard()
